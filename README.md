@@ -1,10 +1,10 @@
-LiDAR Integration for Communication Systems 🚀
+# LiDAR Integration for Communication Systems 🚀
 
 This repository presents a Python-based implementation of **LiDAR integration into wireless communication systems**, focusing on **Integrated Sensing and Communication (ISAC)**. The project leverages **LiDAR point cloud data** and **beam power measurements** to analyze and visualize wireless communication behavior in real-world environments.
 
 ---
 
-📖 Project Overview
+## 📖 Project Overview
 
 This project demonstrates how LiDAR and communication data can be combined to:
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 - Open3D
 - tqdm
 
-**Ensure you have ANSYS HFSS installed if you want to replicate the simulation process.**
+
 
 ---
 
@@ -135,7 +135,7 @@ Make sure the CSV file correctly corresponds to the LiDAR and GPS files.
 
 - **DeepSense** for providing the open-source dataset. ([Website](https://deepsense6g.net/))
 - The **Python Open3D community** for powerful visualization tools.
-- **ANSYS HFSS** for electromagnetic simulation capabilities.
+
 
 ---
 
@@ -147,7 +147,3 @@ Make sure the CSV file correctly corresponds to the LiDAR and GPS files.
 
 **Happy Coding! 🚀**
 
-
-
-[Uploading Scenario 32 data processing.pptx…]()
-[Uploading README.md…]()
